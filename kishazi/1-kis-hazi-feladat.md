@@ -8,7 +8,7 @@
 4. Python/LUA scriptből töltsd le a https://en.wikipedia.org/wiki/Deep_learning oldal szöveges tartalmát, jelenítsd meg a szöveges tartalmat, továbbá  hisztogramon jelenítsd meg a tartalomban a betűk előfordulásának gyakoriságát.  
 
 
-**Csak Github-ra feltöltött Jupyter notebook formátumot fogadunk el, amelyben a kódok mellett ANGOL NYELVŰ magyarázat és az eredmények is láthatóak. **
+**Csak Github-ra feltöltött Jupyter notebook formátumot fogadunk el, amelyben a kódok mellett ANGOL NYELVŰ magyarázat és az eredmények is láthatóak.**
 
 Beadás: http://smartlab.tmit.bme.hu/oktatas-deep-learning#kishazi 
 
